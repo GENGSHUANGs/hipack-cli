@@ -1,0 +1,29 @@
+{
+  "name": "hipack-cli",
+  "version": "1.0.5",
+  "description": "Hipack command too",
+  "bin": {
+    "hipack":"./bin/hipack.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GENGSHUANGs/hipack-cli.git"
+  },
+  "author": "GENGSHUANGs <abe.keng@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GENGSHUANGs/hipack-cli/issues"
+  },
+  "homepage": "https://github.com/GENGSHUANGs/hipack-cli#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "del": "^2.2.0",
+    "progress-stream": "^1.2.0",
+    "request": "^2.69.0",
+    "unzip": "^0.1.11"
+  }
+}
