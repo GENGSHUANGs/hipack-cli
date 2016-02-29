@@ -1,9 +1,9 @@
 {
   "name": "hipack-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Hipack command too",
   "bin": {
-    "hipack":"./bin/hipack.js"
+    "hipack": "./bin/hipack.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,8 +22,8 @@
     "colors": "^1.1.2",
     "commander": "^2.9.0",
     "del": "^2.2.0",
+    "node-unzip-2": "^0.2.1",
     "progress-stream": "^1.2.0",
-    "request": "^2.69.0",
-    "unzip": "^0.1.11"
+    "request": "^2.69.0"
   }
 }
