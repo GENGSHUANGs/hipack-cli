@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/GENGSHUANGs/hipack-cli#readme",
   "dependencies": {
+    "bluebird": "^3.3.3",
     "colors": "^1.1.2",
     "commander": "^2.9.0",
     "del": "^2.2.0",
