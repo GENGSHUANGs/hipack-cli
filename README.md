@@ -13,6 +13,8 @@ Start development mode
 ```
 mkdir demo && cd demo 
 hipack start
+// or
+hipack start --force
 ```
 
 Build production release 
