@@ -1,7 +1,7 @@
 {
   "name": "hipack-cli",
-  "version": "1.1.4",
-  "description": "Hipack command too",
+  "version": "1.1.5",
+  "description": "Hipack command tool",
   "bin": {
     "hipack": "./bin/hipack.js"
   },
